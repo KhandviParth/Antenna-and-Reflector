@@ -6,8 +6,11 @@
 As part of a team project, I contributed to the 3D modelling of a satellite using Autodesk Inventor. My responsibility was to design the antenna and reflector components, ensuring accurate dimensions and proper integration with the overall satellite structure.
 
 **My Contributions:**
+
 **1.** Modeled the antenna and reflector components
+
 **2.** Ensured dimensional accuracy and fit within the whole assembly
+
 **3.** Collaborated with the team to maintain consistency across all components
 
 **Tools & Technologies:** Autodesk Inventor
